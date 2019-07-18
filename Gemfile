@@ -6,7 +6,7 @@ gem 'cf-copilot', '0.0.13'
 gem 'clockwork', require: false
 gem 'cloudfront-signer'
 gem 'em-http-request', '~> 1.1'
-gem 'eventmachine', '~> 1.0.9'
+gem 'eventmachine', '~> 1.2.7'
 gem 'googleapis-common-protos'
 gem 'hashdiff'
 gem 'httpclient'
