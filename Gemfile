@@ -46,7 +46,7 @@ gem 'activemodel', '~> 5.2.0'
 gem 'railties', '~> 5.2.0'
 
 # Blobstore and Bits Service Dependencies
-gem 'azure-storage', '0.14.0.preview' # https://github.com/Azure/azure-storage-ruby/issues/122
+gem 'azure-storage', '0.15.0.preview' # https://github.com/Azure/azure-storage-ruby/issues/122
 gem 'bits_service_client', '~> 3.0'
 gem 'fog-aliyun'
 gem 'fog-aws'
