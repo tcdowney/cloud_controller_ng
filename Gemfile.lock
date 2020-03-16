@@ -94,7 +94,7 @@ GEM
     bits_service_client (3.3.0)
       activesupport
       steno
-    builder (3.2.3)
+    builder (3.2.4)
     byebug (10.0.2)
     cf-copilot (0.0.13)
       grpc (~> 1.0)
@@ -139,7 +139,7 @@ GEM
       eventmachine (>= 1.0.0.beta.4)
     erubi (1.8.0)
     eventmachine (1.0.9.1)
-    excon (0.64.0)
+    excon (0.72.0)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
     faraday-cookie_jar (0.0.6)
@@ -150,7 +150,7 @@ GEM
     ffi (1.9.25)
     fluent-logger (0.7.2)
       msgpack (>= 1.0.0, < 2)
-    fog-aliyun (0.3.3)
+    fog-aliyun (0.3.8)
       fog-core
       fog-json
       ipaddress (~> 0.8)
