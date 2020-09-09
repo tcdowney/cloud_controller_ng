@@ -374,7 +374,7 @@ GEM
       sexp_processor (~> 4.1)
     rubyzip (1.2.3)
     safe_yaml (1.0.4)
-    scientist (1.1.1)
+    scientist (1.5.0)
     sequel (5.22.0)
     sexp_processor (4.7.0)
     signet (0.11.0)
@@ -519,7 +519,7 @@ DEPENDENCIES
   rubocop
   ruby-debug-ide (>= 0.7.0.beta4)
   rubyzip
-  scientist (~> 1.1.0)
+  scientist (~> 1.5.0)
   sequel (~> 5.0)
   sinatra (~> 2.0)
   sinatra-contrib
