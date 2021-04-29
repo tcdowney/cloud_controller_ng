@@ -1,0 +1,26 @@
+version: 2
+updates:
+- package-ecosystem: bundler
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "13:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: parallel_tests
+    versions:
+    - 3.4.0
+    - 3.5.0
+    - 3.5.1
+    - 3.5.2
+    - 3.6.0
+  - dependency-name: excon
+    versions:
+    - 0.78.1
+    - 0.79.0
+  - dependency-name: loofah
+    versions:
+    - 2.9.0
+  - dependency-name: scientist
+    versions:
+    - 1.5.0
